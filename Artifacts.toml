@@ -1,252 +1,252 @@
 [[MAFFT]]
 arch = "aarch64"
-git-tree-sha1 = "03590f913a369dbfd3157ba166040fbb78966862"
+git-tree-sha1 = "4ad524f75a8ae1a4af86bc5247aecb5cba67bdd3"
 os = "macos"
 
     [[MAFFT.download]]
-    sha256 = "54c75346a23816a6d186f896d5eb579f5b9a8a6a8a3f25df0c3877420c6ca406"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "2f39060e80f8fe8c37a1b69cb2be5dc3545bb89743aa6397e3afd5b3789724b5"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.aarch64-apple-darwin.tar.gz"
 [[MAFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4fb59b6d4322d3f70341118437d9c75557259c3c"
+git-tree-sha1 = "29496a4a34d0e19f07fda6cf7439342b8ca73164"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "37aa301b31777e8c621eb12810d9db918f53ad5e07b192b323f7d356f7909d89"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "c80d0cf48795109a34d23b9da635641446adb30f8039430fbfe4bee49cb4eefa"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[MAFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5a173706e5845ab7312dd7ae81d5184ace9f0ce1"
+git-tree-sha1 = "3fc9e3250aa3a99662a9695fb1e1533a7be6cedb"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "631631a98466aeaf565d88a0401eeea63dcaf9ff7e086365d1a8aadc900ffd0c"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "59fc170b3796a191acedde37d1faa94d565369510df7e50db46320098524693b"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[MAFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b3bd34f07074ec42e5d116c46fcd16c022f980cc"
+git-tree-sha1 = "0ded4ae161a985d7eb266b8a0eb498d5c13d96b4"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "4ef953418d2e8ddf25a6b182e1b5e4370e9aa1bc90dc327a5144023653aaf39a"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "47fec435e6a0a16c0e1fd26ad394b7167dc1c0903f997b080b9156153328daaf"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.aarch64-linux-musl-cxx03.tar.gz"
 [[MAFFT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04c8d6ce82cf668c4fd879e85e850fcd3b6914bc"
+git-tree-sha1 = "5ea8aac6cbcfa3e0a3c37656d318b00d25c21001"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "b1ad6b0d29c9d2571390b52680ff25ddaeccfb5ccc74bb30ba24645af6975340"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "60f22ba1deda0b54191b1c424cd442906b3485b313e29008e36460e089972424"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.aarch64-linux-musl-cxx11.tar.gz"
 [[MAFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "86e0be03bd697fe4ec17225b5954e873273d8859"
+git-tree-sha1 = "807f2f90caa173b5457ee9953ea6bc146cb7a1d8"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "cce2941f2f3a73fefb158141783e33cf60ec3e34872a89db72da77577c5d4387"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f026e0a9dd2ec728738570625f9851ccdfd1b5630b3c49fb042c470e08d6e36d"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[MAFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b6bbbf6460414488db487f9c4acad9c50bc6ca40"
+git-tree-sha1 = "797a99ff81eac1ad4ca3dcf270abd71928a18c18"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "4b60154a92c5c332f5452a66d75be5932d9a4f5a2db38a2bfc4172e7e3c9be7f"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "a80403751fa38480dfeea2b130c305405c8563ea03cd26b41b71235d0700cbf3"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[MAFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2355c4e3657db472de65af4eed1b1e0f11d187f9"
+git-tree-sha1 = "85c25244bd941036c300dd42a00341d2ae487823"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "bcb2de1c29dc2c8e01665c9cc3ccaa582e3c811d19fe47570ec15596cb07d8d9"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "d1d695987a5742238d62033a07cd27986e944d54cac90fed4fa18b760845f73f"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[MAFFT]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5d761bf8c2b5a27e2eaae45819287c05f620107"
+git-tree-sha1 = "5b4279bb7cd5f77c5e562b47854b593edd0ac590"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "50b684bdb4e70058e1bcf4fb5a34db2b77bd9d4628fc60052b36f72751eddba9"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "ceafb3c8b01482dcdf6de604d8ea34aad512a62ee9361b70e9a78b1643dc41e0"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[MAFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2f5355f17050547b344e4ff24066f019311031a7"
+git-tree-sha1 = "ad7fdbc36bfaf29f9d534e8e6c0eb4cf7ce9bcac"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "8a5db118803860ccfa5e00cd840276acd9c6f1dfba6acfedf0eccc9539f9c62e"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "b3c8633fd0bfeb37ea1d2df830f25bcad9b9a4b023276a611ba7ca8c43f3e508"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[MAFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7aaea365cee7429742b5718934adc659c2f0f0ae"
+git-tree-sha1 = "9ff8909b4688cdfcea920f7beb31b5d7a34ba597"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "343e06a83ab644305d55d17a9285c744e45d5686fe7fb1cfb109268905706db6"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "422d18bf9b17719188294fb29c8b13979ddba034b5e59315c3290ff0aedf8e65"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[MAFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a75638598fd335655775b2b507581398d2b4049c"
+git-tree-sha1 = "4dbdfed133f43ef34384f804fd755c1469d896af"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "3af56d2e245005ff065e4f9eef8a489c8573d0d2bf5da1a54dc23b25e25a6836"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "47dd7d558753b36a8db72842800e3750dd9cf20ea5dc0e79e5747bdfeef2f85e"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[MAFFT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c9ed4c93d67d035fb2ba85566b77480c558e2bfe"
+git-tree-sha1 = "6f1d6738d89f44458237dac01d699a364ded9a69"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "c4f0a27d0dda60d782e1ff48f9a46dbc5af3ed8ae2ff9d28e7944297b7c75854"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "2e000e72e895fbc2b822b0a0b671933e951ed806b6ddbd785dbf95847471a5f8"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[MAFFT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "74d90faf62cc0a7302c005a229da705d4fa8bf5c"
+git-tree-sha1 = "03e590f2a3a18a21f9733f109d9236b8ddb3744e"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "8fc1dd5979791398e132d029da77bb4c68af09b259a709c8bc9bf7606bdcba72"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "ba1a0f811fb25c52dd178f0d59d55f0cc7dcd01e90ca05694b9394f16e409e70"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.i686-linux-gnu-cxx03.tar.gz"
 [[MAFFT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ccf0dbf24b1648d7dd4f0216eda85a29f9228440"
+git-tree-sha1 = "e8cf1aba50ae37aaacc4d864025d86e26fb92ff0"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "e53b7da664ede34d062aef10b958cd002bdf61c0f0fd8dfdeaa92df9f406c528"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "9e178b89ad1d894b50795583b83ca131a22d71c7441751aa5ffa86afd10311cc"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.i686-linux-gnu-cxx11.tar.gz"
 [[MAFFT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a3bd84736c1fb539f146a183e393c55be0423c81"
+git-tree-sha1 = "3721f27fdeadc2f68e97cefaa730569c5b18b966"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "7c709b9effddf5e57c76b028d0dfd261f74731fbf2448f6880bf8802945f0b9f"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "b716aa2a25a0ff6492e505111b4cc8eefd3d611b4a9b291cf37627ad73da4cf9"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.i686-linux-musl-cxx03.tar.gz"
 [[MAFFT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49e0e96b7b614f8079bb8857fdf852a044b164b2"
+git-tree-sha1 = "16f386513f0200be64bd75aed944846710ab4619"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "3b103b25707ff68c472a861c5af679fa0b5bdf55f1f5fb77d681a29ed980d68d"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "d6b56195e41c7ea33f21aec3d66103ea9609024f3b21393d53e35cbe871e87b9"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.i686-linux-musl-cxx11.tar.gz"
 [[MAFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "af409d0e6835b216cb33741a25392bd40338067b"
+git-tree-sha1 = "e99c9a2733d894959a382482b31da18d9ce71ade"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "0e8ba501c63067c2432246780ffcd38e8ee781cb636a2d4af956172076d88d6b"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "50d525d5a385663e5bc93130fc780d873ae36f44fd1866db85abb85fe0333490"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[MAFFT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3a0602fc91aef667b39efb147023d528bf67b005"
+git-tree-sha1 = "12b9893f8d0e406744472156f81dc8829e40a015"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "706db3780e43c3e08eedaff54808bb65a52fa469f9a0199d16f84c952e0a4898"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "1c91d881b598e23953905ccce3250125c1b20ca65d89437f3727351e088261e9"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[MAFFT]]
 arch = "x86_64"
-git-tree-sha1 = "3517a39d995ae633472ebba97329edf3b0e5edad"
+git-tree-sha1 = "eaebf50b91e4ce30355488374c6acde511b51506"
 os = "macos"
 
     [[MAFFT.download]]
-    sha256 = "fc27bcb89b1ab32a80ec97f8606df62b11c62bc0ed294fb3b3fc0e17b0a2bce3"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "890d4718506d7e9ced6959c43c28be839119646a145e6cdb2204137ea761297a"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.x86_64-apple-darwin.tar.gz"
 [[MAFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f3a01489a28b7e2ab2ee0d7affea22a0662bff48"
+git-tree-sha1 = "f603168673b3bf3356e8ff4e629aae076aa8ec0d"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "ce57a3c049266c6dbdc4f98e799cdf8735014ce26fc5ecc452263699272198e5"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "e038d53ba628ef7bc4933b5be05a638351722395900db307f456a1d00e78eb8b"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[MAFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "62d8cf662323b1f27372f898772f78e1075a7813"
+git-tree-sha1 = "635d0d7c8e6754769aaf112e8e62debb6f62737f"
 libc = "glibc"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "0b60040617e315e273dd85c70b5fa3c57c4c103ae59607ac3618104ab974acbc"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "484e5c2528552b0a8cc76d02a6abeba41ca0e5e4c99270c0d608983cd1f9951a"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[MAFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ad35151e6731b386dde4ed131d30b571d8d433cf"
+git-tree-sha1 = "f8da51765d95248bb3f0062cc7715f4e3fc3a7ce"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "f3e4144d5044c7058235c25bcc4242456aebec2a9ff7599e5b52b456a0cdb818"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "2fe9291a9a1125606d4b8488f914aaeeaa4295c4411596fed5bb5258e4812fcd"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.x86_64-linux-musl-cxx03.tar.gz"
 [[MAFFT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6fb7eff33c1087b4a6512d071badf3e7e652a822"
+git-tree-sha1 = "b4f27720daa7834543598684bed9b0daf5dc6ddf"
 libc = "musl"
 os = "linux"
 
     [[MAFFT.download]]
-    sha256 = "0db5a69ae5a793887e6a37d08515e92996320054d1378d0bfb8e68090b16fe82"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "7d0b8c23f4728fbb9075b22356553c46a06868872e66b708fcefa6712b02236e"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.x86_64-linux-musl-cxx11.tar.gz"
 [[MAFFT]]
 arch = "x86_64"
-git-tree-sha1 = "e5b3b1b03880c48e377c80f6f32fa9e4e69b836e"
+git-tree-sha1 = "0911d8f0f3e799db320597a0833edb11a70ca3b3"
 os = "freebsd"
 
     [[MAFFT.download]]
-    sha256 = "b34a04d0455f5622b9e9930e314bd28b589535f7e449a09018bfd2fcd5d5742f"
-    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.490.0+0/MAFFT.v7.490.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "5f0667f7fd736c289d988e09957c8293bc2ce9b0e713e0f3610e3270980fef55"
+    url = "https://github.com/JuliaBinaryWrappers/MAFFT_jll.jl/releases/download/MAFFT-v7.505.0+0/MAFFT.v7.505.0.x86_64-unknown-freebsd.tar.gz"
